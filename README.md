@@ -1,3 +1,5 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wnsdud4197&show_icons=true&theme=radical)
+
 ### 🙄 About Me (Junyeong Yang, 양준영)
 
 - 🎓 (2013.03 ~ 2019.02) Graduated from Department of Polymer Engineering at Chonnam National University
@@ -28,3 +30,6 @@
 
 - Framework
    - Django, Spring, Vue.js
+
+
+
