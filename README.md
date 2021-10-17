@@ -26,10 +26,10 @@
 ### ⚔ My Skills
 
 - Language
-   - Python, Java, Javascript
+   - Python, Javascript
 
 - Framework
-   - Django, Spring, Vue.js
+   - Django, Vue.js
 
 
 
