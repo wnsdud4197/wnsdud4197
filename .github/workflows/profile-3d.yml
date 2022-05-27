@@ -18,8 +18,8 @@ jobs:
           SETTING_JSON: ./.github/workflows/setting.json
       - name: Commit & Push
         run: |
-          git config --global user.name wnsdud4197
-          git config --global user.email wnsdud4197@github.com
+          git config --global user.name ${{ secrets.NAME }}
+          git config --global user.email ${{ secrets.NAME }}@github.com
           git add -A .
           git commit -m "generated"
           git push
