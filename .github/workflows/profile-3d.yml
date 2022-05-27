@@ -19,7 +19,7 @@ jobs:
       - name: Commit & Push
         run: |
           git config --global user.name ${{ secrets.NAME }}
-          git config --global user.email ${{ secrets.NAME }}@github.com
+          git config --global user.email ${{ secrets.NAME }}@naver.com
           git add -A .
           git commit -m "generated"
           git push
